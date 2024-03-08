@@ -33,7 +33,7 @@ export default function Home() {
                 <h3>ПОКЕМОНЫ API</h3>
                 <div className='headerButton'>
                     <div>
-                    <Image src="/icons/Icon.png"
+                    <Image src="./Icon.svg"
                            width={24}
                            height={30}
                            alt="Picture of the author"
